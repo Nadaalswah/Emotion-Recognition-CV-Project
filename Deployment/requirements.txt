@@ -1,0 +1,5 @@
+opencv-python-headless==4.10.0.82
+moviepy==1.0.3
+hsemotion==0.3.0
+retina-face==0.0.17
+tf_keras==2.15.1
