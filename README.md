@@ -9,14 +9,14 @@ Models Explored
 
 ## For face detection and emotion recognition, we explored the following models:
 
-    Face Detection Models:
-        OpenCV Haar Cascade
-        MTCNN
-        RetinaFace
+### Face Detection Models:
+* OpenCV Haar Cascade
+* MTCNN
+* RetinaFace
 
-    Emotion Recognition Models:
-        DeepFace (VGG16)
-        HSEmotion
+### Emotion Recognition Models:
+* DeepFace (VGG16)
+* HSEmotion
 
 ## Final Model Selection
 After thorough evaluation, we selected RetinaFace for face detection due to its high accuracy and robustness. For emotion recognition, we used the HSEmotion model.
